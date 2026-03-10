@@ -1,0 +1,9 @@
+n	T(n)
+2	4
+4	12
+8	32
+16	80
+32	192
+64	448
+
+Verification: Pattern matches O(n log n) for a=2, b=2, d=1
